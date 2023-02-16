@@ -1,1 +1,0 @@
-Git reset : reset command is used to undo/delete local changes to the state of a git repository
